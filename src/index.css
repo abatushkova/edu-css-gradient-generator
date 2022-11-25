@@ -147,12 +147,12 @@ a {
 }
 
 .button {
-  height: 46px;
-  padding: 0 16px;
+  height: 40px;
+  padding: 0 24px;
   border: none;
   border-radius: 4px;
   background-color: #f8fafd;
-  font: 1.6rem/2.4rem a;
+  font: 500 1.6rem/2.4rem a;
   font-family: inherit;
   -webkit-transition: background-color 300ms cubic-bezier(0.2, 0, 0, 1);
   transition: background-color 300ms cubic-bezier(0.2, 0, 0, 1);
