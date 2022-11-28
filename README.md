@@ -3,6 +3,6 @@ Educational project with simple CSS gradient generator. Click Generate button to
 [Live Demo](https://abatushkova.github.io/edu-css-gradient-generator/)
 
 ## Built with
-- flexbox layout
-- sass
-- js
+- Flexbox layout
+- SASS (.scss)
+- JavaScript
