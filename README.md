@@ -4,5 +4,5 @@ Educational project with simple CSS gradient generator. Click Generate button to
 
 ## Built with
 - Flexbox layout
-- SASS (.scss)
+- Sass (.scss)
 - JavaScript
